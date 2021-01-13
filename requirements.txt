@@ -3,3 +3,4 @@ pyOpenSSL==0.15
 tornado==4.1
 xhtml2pdf==0.0.6
 psutil==3.2.1
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
