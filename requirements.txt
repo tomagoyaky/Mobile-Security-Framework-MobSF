@@ -1,4 +1,4 @@
-Django==1.8
+Django==2.2.21
 pyOpenSSL==0.15
 tornado==4.1
 xhtml2pdf==0.0.6
