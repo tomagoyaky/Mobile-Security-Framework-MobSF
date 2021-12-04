@@ -1,5 +1,6 @@
-Django==1.8
-pyOpenSSL==0.15
-tornado==4.1
+Django==2.2.24
+pyOpenSSL==17.5.0
+tornado==5.1
 xhtml2pdf==0.0.6
-psutil==3.2.1
+psutil==5.6.7
+pillow>=8.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
