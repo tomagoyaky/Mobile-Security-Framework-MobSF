@@ -1,5 +1,5 @@
-Django==1.8
+Django==3.2.21
 pyOpenSSL==0.15
-tornado==4.1
+tornado==4.2.1
 xhtml2pdf==0.0.6
 psutil==3.2.1
